@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=004680&height=200&section=header&text=SIRI();%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=004680&height=200&section=header&text=SIRI();%20&fontSize=75)
 
 <h3 align="center">👋 Hi there 👋 </h3>
 

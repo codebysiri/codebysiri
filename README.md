@@ -1,10 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=004680&height=250&section=header&text=SIRI%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=004680&height=200&section=header&text=SIRI();%20&fontSize=90)
 
 <h3 align="center">👋 Hi there 👋 </h3>
 
 <p align="center"> I'm Seongsil Kim, a growing developer. 🌱 </p>
 
-<br>
 <br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -21,4 +20,3 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
-

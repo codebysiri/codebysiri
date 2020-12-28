@@ -1,13 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=004680&height=200&section=header&text=SIRI();%20&fontSize=75)
 
 <h3 align="center">👋 Hi there 👋 </h3>
-
 <p align="center"> I'm Seongsil Kim, a growing developer. 🌱 </p>
 
 <br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
@@ -20,3 +18,10 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </p>
+
+<br>
+
+<h3 align="center"> 👩🏻‍💻 Me 👩🏻‍💻 </h3>
+  <a href="https://velog.io/@siri"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@siri"/></a>&nbsp
+  <a href="https://www.instagram.com/siri._.gongsta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/siri._.gongsta/"/></a>&nbsp
+  <a href="mailto:kimss9303@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimss9303@naver.com"/></a>

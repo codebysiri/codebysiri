@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=004680&height=200&section=header&text=SIRI();%20&fontSize=75)
 
 <h3 align="center">👋 Hi there 👋 </h3>
-<p align="center"> I'm Seongsil Kim, a growing developer. 🌱 </p>
+<p align="center"> I'm a growing developer. 🌱 </p>
 
 <br>
 
@@ -20,12 +20,4 @@
   <img src="https://img.shields.io/badge/mongodb-47a248?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-</p>
-
-<br>
-
-<h3 align="center"> 👩🏻‍💻  Me 👩🏻‍💻 </h3>
-<p align="center">
-  <a href="https://sincerity.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://sincerity.tistory.com/"/></a>&nbsp
-  <a href="mailto:kimss9303@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dmsend93@gmail.com"/></a>
 </p>
